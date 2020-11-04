@@ -1,0 +1,17 @@
+F:\韦君元\C#OOP\ch9\小型资源管理器\小型资源管理器\bin\Debug\小型资源管理器.exe
+F:\韦君元\C#OOP\ch9\小型资源管理器\小型资源管理器\bin\Debug\小型资源管理器.pdb
+F:\韦君元\C#OOP\ch9\小型资源管理器\小型资源管理器\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\韦君元\C#OOP\ch9\小型资源管理器\小型资源管理器\obj\x86\Debug\小型资源管理器.FrmMian.resources
+F:\韦君元\C#OOP\ch9\小型资源管理器\小型资源管理器\obj\x86\Debug\小型资源管理器.Properties.Resources.resources
+F:\韦君元\C#OOP\ch9\小型资源管理器\小型资源管理器\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\韦君元\C#OOP\ch9\小型资源管理器\小型资源管理器\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\韦君元\C#OOP\ch9\小型资源管理器\小型资源管理器\obj\x86\Debug\小型资源管理器.exe
+F:\韦君元\C#OOP\ch9\小型资源管理器\小型资源管理器\obj\x86\Debug\小型资源管理器.pdb
+E:\SoftWare\Project\小型资源管理器\小型资源管理器\obj\x86\Debug\小型资源管理器.exe
+E:\SoftWare\Project\小型资源管理器\小型资源管理器\obj\x86\Debug\小型资源管理器.pdb
+E:\SoftWare\Project\小型资源管理器\小型资源管理器\bin\Debug\小型资源管理器.exe
+E:\SoftWare\Project\小型资源管理器\小型资源管理器\bin\Debug\小型资源管理器.pdb
+E:\SoftWare\Project\小型资源管理器\小型资源管理器\obj\x86\Debug\小型资源管理器.csprojResolveAssemblyReference.cache
+E:\SoftWare\Project\小型资源管理器\小型资源管理器\obj\x86\Debug\小型资源管理器.FrmMian.resources
+E:\SoftWare\Project\小型资源管理器\小型资源管理器\obj\x86\Debug\小型资源管理器.Properties.Resources.resources
+E:\SoftWare\Project\小型资源管理器\小型资源管理器\obj\x86\Debug\小型资源管理器.csproj.GenerateResource.Cache
